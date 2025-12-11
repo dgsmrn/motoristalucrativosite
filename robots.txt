@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://motoristalucrativo.com.br/
+
+# Sitemaps
+Sitemap: https://motoristalucrativo.com.br/sitemap.xml
